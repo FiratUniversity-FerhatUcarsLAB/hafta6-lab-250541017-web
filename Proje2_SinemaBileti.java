@@ -1,7 +1,7 @@
 /*
  * Ad Soyad: MERYEM MELEK ŞİMŞEK
  * Ogrenci No: 250541017
- * Tarih: 13/11/2025
+ * Tarih: 25/11/2025
  * Aciklama: Gorev 2 - Sinema Bileti Fiyatlandirma
  *
  * Sinema bileti fiyatını hesaplayan akıllı sistem
@@ -111,3 +111,4 @@ public class SinemaBileti {
         generateTicketInfo(base, indirim, extra, total);
     }
 }
+
